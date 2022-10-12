@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    padding: 10px;
+    padding: 0px;
     box-sizing: border-box;
 }
 a{
@@ -13,7 +13,7 @@ a{
     background: white;
 }
     .header{
-        background: url(/ImgP/img5.jpg);
+        background: url(/ImgP/p14.jpg);
         background-position: center;
         background-attachment: contain;
         background-size: cover;
@@ -33,6 +33,7 @@ a{
             .logo{
                 /* background: #5A8F7B; */
                 flex: 1 1 auto;
+                margin: 10px;
                 /* height: 45px; */
             }
                 .logo a{
@@ -76,6 +77,8 @@ a{
             h1{
                 /* background: #81CACF; */
                 color: rgb(0, 0, 0);
+                padding: 100px;
+                
             }
     .section{
         background: rgb(255, 255, 255);
@@ -87,6 +90,7 @@ a{
             flex: 2 1 auto;
             background: rgba(0, 0, 0,.1);
             justify-content: center;
+            padding: 30px;
         }
             .info img{
             background-position: center;
@@ -95,7 +99,16 @@ a{
             /* background: rgba(0, 0, 0,.1); */
             }
             .tama{
-                width: 650px;
+                width: 700px;
+            }
+            .info2{
+                /* background: #0F3D3E; */
+                /* background: url(/ImgP/img16.jpg); */
+                flex: 2 1 auto;
+                background: rgba(0, 0, 0,.1);
+                justify-content: center;
+                padding: 25px;
+                font-size: 32px;
             }
         .aside{
             /* background: #81CACF; */
@@ -103,8 +116,14 @@ a{
             flex: 1 1 auto;
         }
         .publicidad{
-
+            background: rgba(0, 0, 0,.1);
+            margin: 5px;
+            padding: 5px;
         }
+            .h4{
+                margin: 5px;
+                padding: 5px;
+            }
     .footer{
         background: rgb(134, 76, 76);
         display: flex;
@@ -115,3 +134,43 @@ a{
             width: 300px;
             
         }
+    .slider-frame{
+        width: 1280px;
+        height: auto;
+        margin: 50px auto 0;
+        /* overflow: hidden; */
+        
+
+        /* animation: slide 16s infinite alternate ease-in-out; */
+    }
+    /* .slider-frame-div {
+        padding: 0;
+        width: 400%;
+    }
+    .slider-frame li {
+        list-style: none;
+        width: 100%;
+    }
+    .slider-frame img{
+        width: 100%;
+    }
+
+    @keyframes slider{
+        0% {margin-left: 0%;}
+        20% {margin-left: 0%;}
+
+        25% {margin-left: -100%;}
+        45% {margin-left: -100%;}
+
+        50% {margin-left: -200%;}
+        70% {margin-left: -200%;}
+
+        75% {margin-left: -300%;}
+        95% {margin-left: -300%;}
+
+    }
+
+    .test {
+        text-align: center;
+        padding: 2;
+    } */
