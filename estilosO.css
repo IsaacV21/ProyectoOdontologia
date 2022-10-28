@@ -84,6 +84,31 @@ a{
         background: rgb(255, 255, 255);
         display: flex;
     }
+        .articulos{
+            /* background: #5800FF; */
+            background: rgba(0, 0, 0,.1);
+            flex: 2 1 auto;
+            display: flex;
+            flex-flow: row wrap;
+            padding: 25px;
+        }
+            .articles{
+                
+                flex: 1 1 40%;
+                margin: 15px;
+            }
+                .articles a{
+                    color: #fff;
+                    font-size: 13px;
+                    padding: 10px;
+                    background: black;
+                    margin: 10px 0;
+                    display: inline-block;
+                }
+                .tama1{
+                    height: 250px;
+                    width: 400px;
+                }
         .info{
             /* background: #0F3D3E; */
             /* background: url(/ImgP/img16.jpg); */
