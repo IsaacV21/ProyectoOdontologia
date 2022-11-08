@@ -6,6 +6,19 @@
 a{
     text-decoration: none;
 }
+.btn-color {
+    background-color: lightgray; /* Green */
+    border: 1px solid gray;
+    color: black;
+    border-radius: 8px;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+
 .father{
     display: flex;
     flex-flow: column nowrap;
@@ -13,7 +26,7 @@ a{
     background: white;
 }
     .header{
-        background: url(/ImgP/p14.jpg);
+        background: url(./ImgP/p14.jpg);
         background-position: center;
         background-attachment: contain;
         background-size: cover;
@@ -141,6 +154,7 @@ a{
             flex: 1 1 auto;
         }
         .publicidad{
+
             background: rgba(0, 0, 0,.1);
             margin: 5px;
             padding: 5px;

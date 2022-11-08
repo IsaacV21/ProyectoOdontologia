@@ -28,44 +28,22 @@
             </div>
             <div class="textirijillo">
                 <h1>
-                    En nuestro centro de Salud préstamos servicios de Salud de calidad a ¡Precios Solidarios! Para poder contar con una buena Salud
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor similique voluptatibus voluptatum amet necessitatibus debitis odit saepe, quas reiciendis a facilis, repudiandae quis excepturi ut consequuntur, aperiam molestiae dolores reprehenderit aut pariatur obcaecati ullam autem? Nihil, blanditiis molestiae vel, possimus perferendis neque saepe, magnam minima fugit unde adipisci suscipit minus!
                 </h1>
             </div>
         </header>        
         <section class="section">
-            <div class="articulos" style="text-align: center;">
-                <article class="articles">
-                    <img src="./ImgP/p3.jpg" alt="" class="tama1">
-                    <h2>Odontologia</h2>
-                    <p>Agendar cita en Servicio odontologica</p>
-                    <a style="border-radius: 8px;" href="InscripcionesPaciente.php">Ir</a>
-                </article>
-                <article class="articles">
-                    <img src="./ImgP/p1.jpg" alt="" class="tama1">
-                    <h2>Laboratorio</h2>
-                    <p>Agendar cita en Servicio de Laboratorio</p>
-                    <a style="border-radius: 8px;" href="Inscripciones.html">Ir</a>
-                </article>
-                <article class="articles">
-                    <img src="./ImgP/p5.jpg" alt="" class="tama1">
-                    <h2>Pediatria</h2>
-                    <p>Agendar cita en Servicio de Pediatrica</p>
-                    <a style="border-radius: 8px;" href="Inscripciones.html">Ir</a>
-                </article>
-                <article class="articles">
-                    <img src="./ImgP/p2.jpg" alt="" class="tama1">
-                    <h2>Ginecologia</h2>
-                    <p>Agentar cita en Servicio de Ginecologia</p>
-                    <a style="border-radius: 8px;" href="Inscripciones.html">Ir</a>
+            <div class="articulos">
+                
                 </article>
             </div>
             <aside class="aside">
                 <div class="publicidad">
-                    <h4 style="text-align: center;">Poseemos la mejor asistencia</h4>
+                    <h4>Poseemos la mejor asistencia</h4>
                     <img src="./ImgP/img10.jpg" alt="">
                 </div>
                 <div class="publicidad">
-                    <h4 style="text-align: center;">Personal autorizado</h4>
+                    <h4>Personal autorizado</h4>
                     <img src="./ImgP/img11.jpg" alt="">
                 </div>
             </aside>
@@ -73,8 +51,6 @@
         <footer class="footer">
             <nav class="pie"></nav>
         </footer>
-
-    </div>
-    
+    </div>    
 </body>
 </html>
